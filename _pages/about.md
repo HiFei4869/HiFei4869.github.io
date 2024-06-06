@@ -8,14 +8,17 @@ redirect_from:
 ---
 
 
-Hello! My name is **Yifei SONG**, a student at The Chinese University of Hong Kong. This is my personal website about my experiences and other interesting stuffs.
-Feel free to browse through my research, awards, and hobbies. 
+Hello! I am **Yifei SONG**, a student at The Chinese University of Hong Kong. This is my personal website about my experiences and other interesting stuffs.
+Feel free to browse through the website to learn about my experiences, academics, awards and hobbies. 
 
 If you want to get in touch, you can reach me at [christine.yifei.song@outlook.com](mailto:christine.yifei.song@outlook.com).
 
 ## Recent News
  - Feb, 2024: start my exchange semester at **EPFL**!!
 
+## Education
+ - B.Eng in Information Engineering, The Chinese University of Hong Kong, *2021 ~ 2025 (expected)*
+ - Exchange student (Computer and Communication Sciences), École Polytechnique Fédérale de Lausanne, *Ongoing*
 
 ## Research Experience
  - June, 2024 ~ Now: Final Year Project
@@ -30,7 +33,6 @@ If you want to get in touch, you can reach me at [christine.yifei.song@outlook.c
   
 
 ## Academics
- - Major GPA: 3.83/4
  - Dean's list, 2022-2023 (Top 10%)
  - Selected postgraduate level courses: Computer Vision, Advanced topics on privacy enhancing technologies.
 
