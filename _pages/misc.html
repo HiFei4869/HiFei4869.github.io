@@ -7,6 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.misc %}
-  {% include archive-single.html %}
-{% endfor %}
+<article>
+    <header>
+        <h1>Miscellaneous</h1>
+        <p>Here you will find some random stuffs about me :))</p>
+    </header>
+
+    <section>
+        <h2>Hobbies</h2>
+        <p>I love playing basketball, hiking and listening to Cantonese Pop music</p>
+    </section>
+
+</article>
+
+<footer>
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.name }}. All rights reserved.</p>
+</footer>
