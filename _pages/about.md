@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! I am **Yifei SONG**, an undergraduate student majoring in **Information Engineering** at **The Chinese University of Hong Kong**. I am currently engaged in developing **reliable and trustworthy artificial intelligence systems**, and I also have keen interests in **generative models and their applications** in real-world tasks.
+Hello! I am **Yifei SONG**, an undergraduate student majoring in **Information Engineering** at **The Chinese University of Hong Kong**. I am currently engaged in developing reliable and trustworthy artificial intelligence systems, and I also have keen interests in generative models and their applications in real-world tasks.
 
 I am always open for possible collaborations and ideas! If you want to get in touch, you can drop me an email at [christine.yifei.song@outlook.com](mailto:christine.yifei.song@outlook.com).
 
