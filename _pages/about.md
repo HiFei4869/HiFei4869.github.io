@@ -10,10 +10,11 @@ redirect_from:
 
 Hello! I am **Yifei SONG**, an undergraduate student majoring in **Information Engineering** at **The Chinese University of Hong Kong (CUHK)**. I am currently engaged in developing reliable and trustworthy artificial intelligence systems, and I also have keen interests in the appliactions of generative models in real-world tasks.
 
-I am interested in applying for PhD/MPhil position starting in 2025 Fall/2025 Spring, and I am always open for possible collaborations and ideas! If you want to chat, you can drop me an email at [christine.yifei.song@outlook.com](mailto:christine.yifei.song@outlook.com).
+I am interested in applying for PhD/MPhil position starting in 2025 Fall, and I am always open for possible collaborations and ideas! If you want to chat, you can drop me an email at [christine.yifei.song@outlook.com](mailto:christine.yifei.song@outlook.com).
 
 ## Recent News
  - Feb, 2024: start my exchange semester at **EPFL**!!
+ - Oct, 2024: make a paper submission to ACM Web Conference (ACM WWW)!!
 
 ## Education
  - B.Eng in Information Engineering, The Chinese University of Hong Kong, *2021 ~ 2025 (expected)*
@@ -39,10 +40,11 @@ I am interested in applying for PhD/MPhil position starting in 2025 Fall/2025 Sp
 
 ## Scholarship and Awards
  - IE Award, 2023-2024 (Awarded to top IE students for exchange, HKD $30,000)
+ - Ho Sin Hang Scholarship, 2023-2024 (Awarded to students with top academic performances, HKD $5,000)
  - Clement Ho Ming De Xin Min Alumni Scholarship, 2022-2023 (Awarded to students with top academic performances, HKD $10,000)
 
    
-<span style="color:DeepSkyBlue">Last Updates at Sep 2024!</span>
+<span style="color:DeepSkyBlue">Last Updates in Oct 2024!</span>
 
 
 
